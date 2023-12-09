@@ -1,2 +1,3 @@
 # software
-Calculator © 2023 by JJ-P1114 STUDIO is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International 
+
+— Calculator: <a href='https://github.com/SOFTWARE-JJP1114STUDIO/calculator'>Voir le produit</a>
